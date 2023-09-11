@@ -15,3 +15,5 @@ authenticator = stauth.Authenticate(
 )
 
 st.title('test')
+
+name, authentication_status, username = authenticator.login('Login', 'main')
