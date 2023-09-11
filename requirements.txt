@@ -1,3 +1,4 @@
 streamlit==1.26.0
 openpyxl==3.1.2
 convertapi==1.7.0
+streamlit-authenticator==0.2.3
